@@ -2,6 +2,14 @@
 
 This is a **2-in-1 system implementation** with a single `.sh` script that allows you to run Windows inside Linux without requiring a reboot. It uses GPU passthrough (VFIO) technology to give the Windows virtual machine direct access to your dedicated GPU, providing near-native gaming performance while keeping your Linux host system intact (you can use both - Windows with GUI and Linux via SSH).
 
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=pn0k5uLFft8">
+    <img src="https://img.youtube.com/vi/pn0k5uLFft8/maxresdefault.jpg" alt="Windows on Linux Setup Guide" style="width:100%; max-width:800px;">
+  </a>
+  <br>
+  <p><em>System Demonstration as a video.</em></p>
+</div>
+
 **Designed for**: NVIDIA GPU + Intel CPU  
 **Compatibility**: May also work with AMD GPUs and CPUs with minor adjustments
 
