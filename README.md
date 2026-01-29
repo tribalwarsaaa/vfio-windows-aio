@@ -533,4 +533,7 @@ If this project helped you run your favorite games on Linux, consider supporting
 
 This project is licensed under the **MIT License** - you are free to modify, fork, copy, and distribute this script as you wish. See the `LICENSE` file for details.
 
-Made with :brown_heart: in 🇵🇱
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=terminal-index/vfio-windows-aio&type=date&legend=top-left)](https://www.star-history.com/#terminal-index/vfio-windows-aio&type=date&legend=top-left)
+
+#### Made with :brown_heart: in 🇵🇱
