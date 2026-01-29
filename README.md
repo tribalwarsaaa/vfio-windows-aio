@@ -187,7 +187,7 @@ Now we need to remove the UEFI headers from the ROM:
    - Delete them
 
    ![Example of Okteta identifying VIDEO string](assets/vbios-example.png)
-   
+   - This is how patched NVIDIA VBIOS should look like.
 5. **Save as patched ROM**:
    - Save as: `/opt/windowsvm/vbios-patched.rom`
    - **DO NOT OVERWRITE** the original `vbios.rom`!
