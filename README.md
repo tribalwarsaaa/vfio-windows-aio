@@ -54,6 +54,11 @@ The result is a seamless transition between Linux and Windows without rebooting 
   - virtio-win drivers ISO
 - **BIOS Settings**: Enable IOMMU/VT-d/AMD-Vi in your BIOS
 - **Kernel Parameters**: Add `intel_iommu=on iommu=pt` (Intel CPU) or `amd_iommu=on iommu=pt` (AMD CPU) to your bootloader
+  > **⚠️ Security Note**: The `iommu=pt` parameter is recommended for maximum gaming performance as it minimizes overhead and latency. However, it effectively disables DMA protection for passed-through devices.
+  >
+  > As noted by the community, forcing the IOMMU to passthrough mode means that if a malicious device is flashed with rogue firmware, it could potentially retain access to host memory even after the VM is shut down.
+  >
+  > **If you prioritize strict security over marginal performance gains, or do not fully trust your devices/firmware, you may omit `iommu=pt` and simply use `intel_iommu=on` or `amd_iommu=on`.**
 
 ## Setup
 
