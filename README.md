@@ -132,7 +132,7 @@ cp /usr/share/edk2/x64/OVMF_VARS.4m.fd /opt/vm-gaming/nvram.fd
 
 > **Important**: The `nvram.fd` file is **writable** and will be modified by the VM as it saves UEFI settings. If you ever need to reset your VM's UEFI settings, simply delete this file and copy a fresh one from the template.
 
-### VBIOS Patching Guide
+## VBIOS Patching
 
 > **Note**: This section is for advanced users who need to patch their GPU's VBIOS ROM.
 
@@ -478,9 +478,9 @@ Provides audio passthrough from the host to the VM.
 
 No virtual display is used because the VM outputs directly to the physical monitor through the passed-through GPU. Elsewise it'll not work.
 
-## ⚠️  Known Issues
+## Known Issues
 
-### 1. NVIDIA Driver Recovery After VM Shutdown
+### ⚠️ 1. NVIDIA Driver Recovery After VM Shutdown
 
 **Issue**: After shutting down the Windows VM, the system successfully returns to Linux, but the NVIDIA GPU cannot be fully restored until the computer is rebooted.
 
@@ -499,7 +499,7 @@ No virtual display is used because the VM outputs directly to the physical monit
 - Wait for better NVIDIA driver support for dynamic rebinding
 - Consider using AMD GPUs, which generally have better VFIO support (and anything related to Linux support. We [love](https://geekpedia.pl/wp-content/uploads/2024/10/linus_torvalds_krytykuje_technologicznych_gigantow_1.webp) you NVIDIA!)
 
-### 2. Audio Volume Too Low in Windows VM
+### ⚠️ 2. Audio Volume Too Low in Windows VM
 
 **Issue**: Audio in the Windows VM may be too quiet, even when Windows volume is set to 100%.
 
